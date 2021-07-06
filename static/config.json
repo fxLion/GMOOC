@@ -1,0 +1,8 @@
+{
+  "IP": "39.105.195.144",
+  "PORT": "80",
+  "PROTOCOL": "http",
+  "PROTOCOL_WEBSOCKET": "ws",
+  "PROJECT": "university-share-platform"
+}
+
